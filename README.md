@@ -28,7 +28,9 @@ This project is a Streamlit-based web application that fetches real-time weather
 
 2. Install required dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install
+    streamlit==1.20.0
+    requests==2.31.0
     ```
 
 3. Run the application:
